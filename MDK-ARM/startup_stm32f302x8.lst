@@ -600,8 +600,7 @@ erwork --depend=.\objects\startup_stm32f302x8.d -o.\objects\startup_stm32f302x8
 .o -I.\RTE\_Target_1 -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include -IC:\K
 eil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.4.0\Device\Include --predefine="__UVISION_
 VERSION SETA 525" --predefine="_RTE_ SETA 1" --predefine="STM32F302x8 SETA 1" -
--list=.\listings\startup_stm32f302x8.lst RTE\Device\STM32F302R8\startup_stm32f3
-02x8.s
+-list=.\startup_stm32f302x8.lst RTE\Device\STM32F302R8\startup_stm32f302x8.s
 
 
 
