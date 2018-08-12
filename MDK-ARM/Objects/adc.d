@@ -1,0 +1,16 @@
+.\objects\adc.o: ..\Source\adc.c
+.\objects\adc.o: ..\Include\adc.h
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: ..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_ll_bus.h
+.\objects\adc.o: ..\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h
+.\objects\adc.o: ..\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f302x8.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm4.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\adc.o: ..\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h
+.\objects\adc.o: ..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_ll_gpio.h
+.\objects\adc.o: ..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_ll_rcc.h
+.\objects\adc.o: ..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_ll_adc.h
+.\objects\adc.o: ..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_ll_dma.h
+.\objects\adc.o: ..\Include\delay.h
