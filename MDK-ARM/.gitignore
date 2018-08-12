@@ -3,3 +3,5 @@ Objects
 objects/
 Listings/
 *.uvoptx
+base.map
+startup_stm32f302x8.lst
