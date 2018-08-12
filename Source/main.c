@@ -11,11 +11,12 @@ int main(){
   button_init();
   gpio_pwm_init();
   tim1_init();
-  tim1_start();
   tim1_pwm_init();
-  
+  tim1_start();
+
+  SystemCoreClockUpdate();
   while(1){
-   
+   int a = SystemCoreClock;
   }
   
 }
